@@ -1,0 +1,12 @@
+build/
+dist/
+secp256k1.egg-info/
+.tox/
+*.pyc
+_libsecp256k1*
+.coverage
+.eggs/
+.cache/
+*.egg
+htmlcov
+libsecp256k1
