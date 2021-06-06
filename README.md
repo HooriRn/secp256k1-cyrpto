@@ -2,10 +2,16 @@
 
 This is exact lib from secp256k1-py but with multi OS support.
 
-You'll need to install `setuptools` for installation.
+You might need to install `setuptools` for installation.
 
 ## INSTALL
 
+### Install from [pypi](https://pypi.org/project/secp256k1Crypto)
+```bash
+pip install secp256k1Crypto
+```
+
+### Install from Source
 ```python
 # in the repo folder
 pip3 install .
