@@ -17,7 +17,7 @@ setup(
     author_email='HooriRn@protonmail.com',
     long_description_content_type='text/markdown',
     long_description=long_description,
-    url='https://github.com/hoorin/secp256k1-py-multi-os',
+    url='https://github.com/HooriRn/secp256k1-cyrpto',
     keywords=["secp256k1", "secp256k1-py","crypto"],
     install_requires=required,
     classifiers=[
